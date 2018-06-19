@@ -1,0 +1,76 @@
+body{
+	background-color: gray;
+	
+}
+
+h1{	
+	font-size: 100px;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
+	text-shadow: 0 0 10px white;
+}
+
+.bold-p{
+	font-size: 60px;
+}
+
+.debs-hi{
+	color: pink;
+	font-size: 20px;
+	font-weight: bolder;
+}
+
+.box1{
+	border: double;
+	color: Blue;
+	font-size: 30px;
+	display: inline-block;
+	width: 49%;
+}
+
+.box2{
+	color: purple;
+	font-size: 20px;
+	display: inline-block;
+	width: 49%;
+}
+
+img{
+	width: 100%;
+}
+
+
+.fullheight{
+	height: 100vh;
+	position: absolute;
+	top: 
+}
+
+.img{
+	background: url(../../website1/img/dogeye.jpg);
+	width: 100%;
+	height:100vh;
+	position: fixed;
+}
+
+.round-button {
+	display: block;
+	border-radius: 50%;
+	width: 75px;
+	height:75px;
+	background: gray;
+	text-align: center;
+	border:	2px solid white;
+	color: black;
+	box-shadow: 0 0 20px white;
+}
+
+.round-button:hover{
+	background: black;
+	color: white;
+}	
+
+.rowbackground1 {
+	background-color: rgb(5, 0, 0);
+}

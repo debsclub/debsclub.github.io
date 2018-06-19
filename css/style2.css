@@ -48,7 +48,7 @@ img{
 }
 
 .img{
-	background: url(../../website1/img/dogeye.jpg);
+	background: url(../img/dogeye.jpg);
 	width: 100%;
 	height:100vh;
 	position: fixed;
